@@ -1,0 +1,11 @@
+plugins:
+  discourse-meteor:
+    enabled_site_setting: enable_login_with_meteor
+
+    meteor_client_id:
+    default: ""
+    secret: true
+
+    meteor_client_secret:
+    default: ""
+    secret: true
